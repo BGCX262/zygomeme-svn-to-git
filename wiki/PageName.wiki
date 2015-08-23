@@ -1,0 +1,12 @@
+#summary ZygoMeme York Wiki Home Page
+
+= Introduction =
+
+ZygoMeme produces a software application called "ZygoMeme York" designed to help people and businesses with maths based problems. ZygoMeme York is a graphical and textual application, allowing more a natural way of finding solutions. 
+
+= Feature List =
+
+    * Create dynamic models using the ZygoMeme York Graphical User interface
+    * Run models for thousands of iterations
+    * See results displayed both in tables and a graphs
+    * Use of more natural expressions (e.g. "Operating Profit = Gross Profit - Overheads")
